@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">🛠 Lenguajes y Herramientas</h3>
+<h3 align="left">🛠 Motores y Diseño </h3>
 
 ###
 
@@ -33,6 +33,8 @@
 
 ###
 
+<h3 align="left">📚 Frameworks y Librerias </h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
@@ -40,6 +42,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
 </div>
+
+<h3 align="left">🌱 Aprendiendo </h3>
 
 ###
 
