@@ -1,6 +1,5 @@
 <h1 align="left">🎮 ¡Hola, soy Renato Pajares Campos! 🕹️</h1>
 
-<br clear="both">
 
 <h2 align="left">¡Bienvenido a mi rincón de desarrollo de videojuegos en GitHub!</h2>
 
