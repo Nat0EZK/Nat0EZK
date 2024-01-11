@@ -20,6 +20,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
   <img width="12" />
+  <img src="https://play-lh.googleusercontent.com/Bq7xZFCMQzCmgli0uz-9nsN3e7PD6JCKDaXYZ9KoFocCRUa3U8AsBh0Slq3uMPS_XtI=w240-h480-rw" height="30" alt="mysql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
@@ -33,8 +35,7 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://play-lh.googleusercontent.com/Bq7xZFCMQzCmgli0uz-9nsN3e7PD6JCKDaXYZ9KoFocCRUa3U8AsBh0Slq3uMPS_XtI=w240-h480-rw" height="30" alt="mysql logo"  />
-  <img width="12" />
+  
 
 </div>
 
