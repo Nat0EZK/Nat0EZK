@@ -33,6 +33,8 @@
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
+  <img src="https://play-lh.googleusercontent.com/Bq7xZFCMQzCmgli0uz-9nsN3e7PD6JCKDaXYZ9KoFocCRUa3U8AsBh0Slq3uMPS_XtI=w240-h480-rw" height="30" alt="mysql logo"  />
+  <img width="12" />
 
 </div>
 
