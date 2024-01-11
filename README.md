@@ -46,7 +46,7 @@
 <img align="right" height="130" src="https://64.media.tumblr.com/1baaf4a64e240486db70beb1a251a53a/25b4b2247b1896ba-a2/s400x600/5462f95d7575dc4faf0f0a47efc6d249548e3016.gifv"  />
 
 ###
-
+<br>
 <div align="left">
   <a href="natopcezk@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
