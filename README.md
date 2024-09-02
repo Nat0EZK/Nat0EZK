@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">👨‍💻Tengo 21 años <br>🎓Graduado en Desarrollo de videojuegos, con conocimientos frescos y listo para enfrentar desafíos. <br>🕹️Mi enfoque actual se centra en el Game Design y Game Programmer. <br>💼Interesado tanto en proyectos 2D como en experiencias 3D.</p>
+<p align="left">👨‍💻Tengo 21 años <br>🎓Graduado en Desarrollo de videojuegos. <br>🕹️Mi enfoque actual se centra en el Game Design y Game Programmer. <br>💼Interesado tanto en proyectos 2D como en experiencias 3D.</p>
 
 ###
 
