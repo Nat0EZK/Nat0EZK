@@ -1,66 +1,102 @@
-<h1 align="left">🎮 ¡Hola, soy Renato Pajares Campos! 🕹️</h1>
+<h1 align="center"><b>Hi , I'm Renato Pajares </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=d91414&size=25&center=true&vCenter=true&width=600&height=100&lines=Game+Programmer,;Game+Designer,;Game+Sound">
+  </a>
+</p>
 
-
-<h2 align="left">¡Bienvenido a mi rincón de desarrollo de videojuegos en GitHub!</h2>
-
-###
-
-<h3 align="left">🚀Sobre mi</h3>
-
-###
-
-<p align="left">👨‍💻Tengo 21 años <br>🎓Graduado en Desarrollo de videojuegos. <br>🕹️Mi enfoque actual se centra en el Game Design y Game Programmer. <br>💼Interesado tanto en proyectos 2D como en experiencias 3D.</p>
-
-###
-
-<h3 align="left">🛠 Motores y Diseño </h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://avatars.githubusercontent.com/u/4309553?s=200&v=4" height="30" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://play-lh.googleusercontent.com/Bq7xZFCMQzCmgli0uz-9nsN3e7PD6JCKDaXYZ9KoFocCRUa3U8AsBh0Slq3uMPS_XtI=w240-h480-rw" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-</div>
-
-<h3 align="left">🌱 Aprendiendo </h3>
-
-<div align="left">
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" /> 
-  <img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/unreal_engine_logo_icon_144771.png" height="30" alt="mysql logo"  />
-  <img width="12" /> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  
-
-</div>
-
-###
-
-<img align="right" height="130" src="https://64.media.tumblr.com/1baaf4a64e240486db70beb1a251a53a/25b4b2247b1896ba-a2/s400x600/5462f95d7575dc4faf0f0a47efc6d249548e3016.gifv"  />
-
-### 
 <br>
-<div align="left">
-  <a href="natopcezk@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/renato-pajares-565b42314/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/NatoEZK" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-</div>
 
-###
+
+<p align="left"> 
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-21-yellow" />
+  <img src="https://img.shields.io/badge/Focus-Game%20Development-red" />
+  <img src="https://img.shields.io/badge/Lives-Lima%20Perú-red" />
+  <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-red" />
+</p>
+
+
+## **About me**
+
+<br>
+
+
+
+🔭 I’m currently working in [Gold Titan Games](https://goldtitangames.com/)
+
+🌱 I’m currently Working on Unity
+
+🤝 I’m available for freelancing.
+
+🌐 Personal website [link](https://nat0ezk.github.io/portafolio/)
+
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
+
+<p align="center">
+
+- **Languages**:
+    
+    ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<br>   
+    
+- **Game Engines**:
+
+    ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+    ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+    
+<br>
+
+- **Softwares and Tools**:
+
+    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)
+    ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)
+
+
+<br>
+
+- **Extras**:
+
+    ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+    ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+    ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+
+
+</p>
+
+<br>
+<br>
+
+-----
+
+
+<br>
+<br>
+
+## Connect with Me
+<br>
+<div align='left'>
+
+<ul>
+
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/renato-pajares-565b42314/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:natopcezk@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/natoezk)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/renatopc24)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/NatoEZK)
+
+
+-----
+Last Edited on: 17/11/2024
