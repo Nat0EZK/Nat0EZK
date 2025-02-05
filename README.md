@@ -11,7 +11,7 @@
 
 <p align="left"> 
  <p align="center">
-<img src="https://img.shields.io/badge/Age-21-yellow" />
+<img src="https://img.shields.io/badge/Age-22-yellow" />
   <img src="https://img.shields.io/badge/Focus-Game%20Development-red" />
   <img src="https://img.shields.io/badge/Lives-Lima%20Perú-red" />
   <img src="https://img.shields.io/badge/Languages-Spanish%20%26%20English-red" />
